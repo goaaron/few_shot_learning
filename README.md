@@ -1,8 +1,9 @@
 # Few-shot learning
-####Why focus on few-shot learning? 
+#### Why focus on few-shot learning? 
 >The connection between few-shot learning, knowledge transfer between different modalities and online learning are key aspects of future ML research. Imagine reinforcement learners designed as a single machine learning system that can solve thousands or millions of tasks, and _can draw from the experience in solving these tasks to learn to automatically solve_ **new tasks**. 
 
 The following project follows the methods of [ProtoTypical Networks](https://arxiv.org/pdf/1703.05175.pdf) (Snell, Swersky, Zemel) for few-shot classification on the OmniGlot dataset.
+
 ![Prototypes](https://raw.githubusercontent.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch/master/doc/imgs/proto-1.png) 
 > [ProtoNets](https://arxiv.org/pdf/1703.05175.pdf) offer an intuitive solution to the few-shot problem that exonerates us from the complexity of meta-learning and other bespoke architectures 
 
