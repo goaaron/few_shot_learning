@@ -4,7 +4,7 @@
 
 The following project follows the methods of [ProtoTypical Networks](https://arxiv.org/pdf/1703.05175.pdf) (Snell, Swersky, Zemel) for few-shot classification on the OmniGlot dataset.
 
-![Prototypes](https://raw.githubusercontent.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch/master/doc/imgs/proto-1.png) 
+![Prototypes](https://cdn-images-1.medium.com/max/1600/0*-eiNihLUkhMd4QJg.) 
 > [ProtoNets](https://arxiv.org/pdf/1703.05175.pdf) offer an intuitive solution to the few-shot problem that exonerates us from the complexity of meta-learning and other bespoke architectures 
 
 
